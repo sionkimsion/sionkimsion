@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Max8-white?style=flat-square&logo=max&logoColor=525252"/> <img src="https://img.shields.io/badge/Ableton-white?style=flat-square&logo=abletonlive&logoColor=000000"/> 
 
   ### 👨‍💻
-  <img src="https://img.shields.io/badge/Javascript-white?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/CSharp-white?style=flat-square&logo=csharp&logoColor=239120"/> <img src="https://img.shields.io/badge/Solidity-white?style=flat-square&logo=solidity&logoColor=363636"/>
+  <img src="https://img.shields.io/badge/Javascript-white?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Typescript-white?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/CSharp-white?style=flat-square&logo=csharp&logoColor=239120"/> <img src="https://img.shields.io/badge/Solidity-white?style=flat-square&logo=solidity&logoColor=363636"/>
 
   ### 🎮  
   <img src="https://img.shields.io/badge/Steam-white?style=flat-square&logo=steam&logoColor=1b2838"/> <img src="https://img.shields.io/badge/Switch-white?style=flat-square&logo=nintendoswitch&logoColor=E60012"/>
